@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrakm&label=Profile%20views&color=0e75b6&style=flat" alt="mrakm" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrakm" alt="mrakm" /></a> </p>
-- 💬 This project is in **React,Html,css ,js**
 
+- 💬 This project is in **React,Html,css ,js**
 - 🔭 I’m currently working on **Making clone of existing application in REACT**
 
 - 🌱 I’m currently learning **NextJs**
