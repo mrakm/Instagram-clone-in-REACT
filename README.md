@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
+<h1 align="center">Hi 👋, I'm Ashutosh Mishra AND THIS IS INSTAGRAM CLONE</h1>
 <h3 align="center">A passionate frontend developer from India, And this is Instagram clone in REACT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrakm&label=Profile%20views&color=0e75b6&style=flat" alt="mrakm" /> </p>
