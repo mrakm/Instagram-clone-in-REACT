@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mrakm/](https://www.linkedin.com/in/mrakm/)
 
-- ⚡ Fun fact **People are attracted and repulsive toward react cuz it is a client side reactive library**
+- ⚡ Fun fact **People are attracted and repulsive toward react for the same reason "It is a client side reactive library"**
 
 
 <h3 align="left">Languages and Tools:</h3>
